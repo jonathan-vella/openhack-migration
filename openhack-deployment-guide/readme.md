@@ -30,7 +30,7 @@ Execute the following steps to deploy the templates:
 
 2) Use the following link to deploy the templates:  
 
-    [![Deploy to Azure](OpenHack_BYOS-Migrationimages/media/image1.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/jonathan-vella/openhack-migration/main/resources/armtemplates/azuredeployOnPrem.json)
+    [![Deploy to Azure](OpenHack_BYOS-Migrationimages/media/image1.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjonathan-vella%2Fopenhack-migration%2Fmain%2Fresources%2Farmtemplates%2FazuredeployOnPrem.json)
 
     This template deploys a "Standard_D16ds_v5" Hyper-V host and bootstraps the host with the attendee environment.
 
