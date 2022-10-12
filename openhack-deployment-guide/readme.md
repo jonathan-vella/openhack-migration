@@ -26,15 +26,15 @@ Execute the following steps to deploy the templates:
 
 ### On-Premise Environment: `azureDeployOnPrem.json`
 
-1) Create a resource group called `openhackonpremrg` in a region with support for Standard\_D16s\_v3 virtual machines.  
+1) Create a resource group called `openhackonpremrg` in a region with support for "Standard_D16ds_v5" virtual machines.  
 
 2) Use the following link to deploy the templates:  
 
     [![Deploy to Azure](OpenHack_BYOS-Migrationimages/media/image1.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fopenhackguides.blob.core.windows.net%2Fopenhack-common-deploy%2Fmigration%2FazureDeployOnPrem.json)  
 
-    This template deploys a Standard\_D16s\_v3 Hyper-V host and bootstraps the host with the attendee environment.
+    This template deploys a "Standard_D16ds_v5" Hyper-V host and bootstraps the host with the attendee environment.
 
-    * It is recommended that you make sure you deploy the template into a region with support and availability of Standard\_D16s\_v3.
+    * It is recommended that you make sure you deploy the template into a region with support and availability of "Standard_D16ds_v5".
 
     * The template itself takes \~7-10 minutes to run, however there are a series of scripts and reboots which occur automatically as the host is configured. This can take \~2-2.5 hours. It is recommended that you deploy the template and let the scripts run for at least that amount of time before verifying the host.
 
@@ -68,21 +68,21 @@ least 30 cores per team per subscription.
 The following are the required resources to successfully complete the
 OpenHack.
 
-| Service                          | SKU                | Count | Cores |
-|----------------------------------|--------------------|-------|-------|
-| Azure Virtual Machines           | Standard\_D16s\_v3 | 1     | 16    |
-| Azure Virtual Machines           | Standard\_Ds       | 5     | >=10  |
-| Azure Virtual Machines           | Standard\_Fs       | 5     | >=10  |
-| Azure Active Directory           | Free               | 1     |       |
-| Azure App Service                | S1                 | 2     |       |
-| Azure SQL Database               | S0                 | 1     |       |
-| Azure App Gateway                | WAF\_v2            | 1     |       |
-| Public IP                        | Standard           | 5     |       |
-| Azure Database Migration Service | Premium            | 1     |       |
-| Azure Service Domain             |                    | 1     |       |
-| Azure Load Balancer              | Standard           | 1     |       |
-| Azure Storage                    | GPv1               | ~5    |       |
-| VPN Gateway                      | VpnGw1             | 1     |       |
+| Service                          | SKU                 | Count | Cores |
+|----------------------------------|-------------------- |-------|-------|
+| Azure Virtual Machines           | Standard\_D16ds\_v5 | 1     | 16    |
+| Azure Virtual Machines           | Standard\_Ds        | 5     | >=10  |
+| Azure Virtual Machines           | Standard\_Fs        | 5     | >=10  |
+| Azure Active Directory           | Free                | 1     |       |
+| Azure App Service                | S1                  | 2     |       |
+| Azure SQL Database               | S0                  | 1     |       |
+| Azure App Gateway                | WAF\_v2             | 1     |       |
+| Public IP                        | Standard            | 5     |       |
+| Azure Database Migration Service | Premium             | 1     |       |
+| Azure Service Domain             |                     | 1     |       |
+| Azure Load Balancer              | Standard            | 1     |       |
+| Azure Storage                    | GPv1                | ~5    |       |
+| VPN Gateway                      | VpnGw1              | 1     |       |
 
 ## Other resources
 
