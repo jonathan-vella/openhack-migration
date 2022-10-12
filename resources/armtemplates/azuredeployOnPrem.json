@@ -43,7 +43,7 @@
             "tags": {},
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "Standard_D16s_v3"
+                    "vmSize": "Standard_D16ds_v5"
                 },
                 "storageProfile": {
                     "imageReference": {
