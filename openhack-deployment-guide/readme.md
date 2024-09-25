@@ -20,7 +20,7 @@ Therefore, you must have the ability to create a tenant and assign the tenant to
 
 ## Environment Deployment
 
-To deploy the environment for this OpenHack, you will need to execute an Azure Resource Manager template to execute two linked ARM templates.  
+To deploy the environment for this OpenHack, you will need to execute an Azure Resource Manager template to execute two linked ARM templates. We recommend you to use "Sweden Central" as the region for the deployment.
 
 Execute the following steps to deploy the templates:
 
