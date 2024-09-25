@@ -36,7 +36,7 @@ Execute the following steps to deploy the templates:
 
     * It is recommended that you make sure you deploy the template into a region with support and availability of "Standard_D16ds_v5".
 
-    * The template itself takes \~7-10 minutes to run, however there are a series of scripts and reboots which occur automatically as the host is configured. This can take \~2-2.5 hours. It is recommended that you deploy the template and let the scripts run for at least that amount of time before verifying the host.
+    * The template itself takes \~7-10 minutes to run, however there are a series of scripts and reboots which occur automatically as the host is configured. This can take \~3-4 hours. It is recommended that you deploy the template and let the scripts run for at least that amount of time before verifying the host.
 
 ### Cloud Network: `azureDeployCloudNetwork.json`
 
@@ -95,4 +95,4 @@ the OpenHack that are not required.
 | Azure App Service                | SSL Certificates - Standard SSL - 1 Year Certificate |  
 | Azure Key Vault                  |                         |  
 | Azure Traffic Manager            |                         |  
-| Azure Front Door Service         |                         |  
+| Azure Front Door Service         | Premium                 |  
