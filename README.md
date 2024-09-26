@@ -50,11 +50,11 @@ The public-facing application, **Contoso Mortgage** (or **CM**), is an ASP.NET M
 
 The following diagram shows the application server architecture:
 
-![Application server architecture](openhack-student-guide/images/application_server_architecture.png)
+![Application server architecture](challenges/images/application_server_architecture.png)
 
 Each server in the production environment is domain-joined. Administrators of the environment do not connect from the public internet and access the guest virtual machines through an internal network. The following diagram shows the existing guests on the Hyper-V host.
 
-![Hyper-V guest architecture](openhack-student-guide/images/hyperv_server_architecture.png)
+![Hyper-V guest architecture](challenges/images/hyperv_server_architecture.png)
 
 The current guests are as follows:
 
