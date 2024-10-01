@@ -54,10 +54,9 @@ Your coach will discuss your implementation before you move on to the next chall
 
 * <a href="https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain" target="_blank">Add your custom domain name using the Azure Active Directory portal</a>
 * <a href="https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-whatis" target="_blank">Azure AD Connect sync: Understand and customize synchronization</a>
-* <a href="https://docs.microsoft.com/azure/app-service/manage-custom-dns-buy-domain" target="_blank">Buy a custom domain name for Azure App Service</a>
+* <a href="https://learn.microsoft.com/en-us/azure/app-service/manage-custom-dns-buy-domain" target="_blank">Buy a custom domain name for Azure App Service</a>
 * <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/choose-ad-authn" target="_blank">Choose the right authentication method for your Azure Active Directory hybrid identity solution</a>
 * <a href="https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-hybrid-identity-design-considerations-overview" target="_blank">Designing your Hybrid Cloud Strategy: Identity and Access Management</a>
 * <a href="https://docs.microsoft.com/azure/active-directory/hybrid/" target="_blank">Hybrid identity documentation</a>
 * <a href="https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization" target="_blank">Prepare a non-routable domain for directory synchronization</a>
 * <a href="https://docs.microsoft.com/azure/active-directory/hybrid/whatis-azure-ad-connect" target="_blank">What is Azure AD Connect?</a>
-* <a href="https://learn.microsoft.com/en-us/azure/app-service/manage-custom-dns-buy-domain" target="_blank">Buy an App Service domain</a>
