@@ -49,5 +49,3 @@ Your coach will discuss your assessment before you move on to the next challenge
 * <a href="https://azure.microsoft.com/migration/" target="_blank">Azure Migration Center</a>
 * <a href="https://docs.microsoft.com/azure/architecture/cloud-adoption/migrate/" target="_blank">Cloud migration in the Cloud Adoption Framework</a>
 * <a href="https://azure.microsoft.com/migration/get-started/#Rehost" target="_blank">Cloud migration strategies - Rehost</a>
-* <a href="https://docs.microsoft.com/azure/azure-monitor/platform/agent-windows" target="_blank">Connect Windows computers to Azure Monitor</a>
-* <a href="https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-manage" target="_blank">Managing and maintaining the Log Analytics agent for Windows and Linux</a>
