@@ -8,11 +8,6 @@
 </tr>
 </table>
 
-## Reminders
-
-* Use an InPrivate/Incognito window in your browser to avoid any confusion with any other credentials that you may use to access Azure resources.
-* The credentials you need to access the Azure subscription assigned to your team are available on the *OpenHack Environment* tab.
-
 ## Challenge
 
 Your challenge is to begin the initial planning for the migration of Contoso Mortgage's applications and existing infrastructure to Azure. Remember that while your initial focus is on a subset of servers and applications within the current datacenter, you are tasked with validating that the process you use throughout this journey can be used for future migrations. *Do not forget to review and adapt your plan as you encounter new aspects and considerations with each subsequent challenge.*

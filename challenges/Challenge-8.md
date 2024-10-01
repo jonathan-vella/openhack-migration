@@ -6,11 +6,6 @@
 </tr>
 </table>
 
-## Reminders
-
-* Use an InPrivate/Incognito window in your browser to avoid any confusion with any other credentials that you may use to access Azure resources.
-* The credentials you need to access the Azure subscription assigned to your team are available on the *OpenHack Environment* tab.
-
 ## Challenge
 
 With the migration to a platform database service completed, IT leadership would like to continue to explore transitioning their application portfolio to PaaS. The phase will explore migrating the existing web tiers of **Contoso Mortgage** and **Contoso Mortgage Admin** to an Azure-based website-hosting service. IT leadership views the full transition to PaaS as truly taking advantage of their move to the cloud and will allow them to embrace new services faster to better serve the business. If they can prove to business owners that their applications can be hosted in PaaS, they will be better positioned to assume a default position where all new services will run in PaaS.

@@ -6,11 +6,6 @@
 </tr>
 </table>
 
-## Reminders
-
-* Use an InPrivate/Incognito window in your browser to avoid any confusion with any other credentials that you may use to access Azure resources.
-* The credentials you need to access the Azure subscription assigned to your team are available on the *OpenHack Environment* tab.
-
 ## Challenge
 
 With the migration to IaaS complete, IT leadership at Contoso Mortgage would like to see how far they can go in their journey to Azure by transitioning from IaaS to PaaS services across their application portfolio, beginning with database hosting. There is a desire both within leadership and the business to improve the uptime, performance, and potential costs associated with database hosting and support.

@@ -6,11 +6,6 @@
 </tr>
 </table>
 
-## Reminders
-
-* Use an InPrivate/Incognito window in your browser to avoid any confusion with any other credentials that you may use to access Azure resources.
-* The credentials you need to access the Azure subscription assigned to your team are available on the *OpenHack Environment* tab.
-
 ## Challenge
 
 Now that the web and database tiers of the source applications have been migrated to PaaS services, the IT Operations and Security teams would like to optimize and secure their implementation. This includes the databases, servers, and websites that they have implemented in Azure. Understanding the performance of each website is important to the Operations and Application Support teams, including the ability to view live site performance and past performance. After the migration, there are still servers operating as well which they do not want to lose sight of.

@@ -6,11 +6,6 @@
 </tr>
 </table>
 
-## Reminders
-
-* Use an InPrivate/Incognito window in your browser to avoid any confusion with any other credentials that you may use to access Azure resources.
-* The credentials you need to access the Azure subscription assigned to your team are available on the *OpenHack Environment* tab.
-
 ## Challenge
 
 In this challenge, you will assess Contoso Mortgage's existing operating environment for the applications **Contoso Mortgage** and **Contoso Mortgage Admin** and continue mapping them to Azure resources. Your assessment will include determining how existing servers and workloads are connected and how they will perform in Azure. Remember that while your initial focus is on a subset of servers and applications within the current datacenter, you are tasked with developing a process for assessment that can scale beyond just a handful of servers.

@@ -6,11 +6,6 @@
 </tr>
 </table>
 
-## Reminders
-
-* Use an InPrivate/Incognito window in your browser to avoid any confusion with any other credentials that you may use to access Azure resources.
-* The credentials you need to access the Azure subscription assigned to your team are available on the *OpenHack Environment* tab.
-
 ## Challenge
 
 As Contoso Mortgage prepares to migrate servers to Azure, establishing hybrid connectivity between their on-premises datacenter and Azure will allow them to establish domain controllers in Azure, making their infrastructure for allowing users and service accounts to authenticate to Active Directory more resilient. Having domain controllers in Azure will also reduce latency for authentication to the domain.

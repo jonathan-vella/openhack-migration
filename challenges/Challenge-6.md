@@ -6,11 +6,6 @@
 </tr>
 </table>
 
-## Reminders
-
-* Use an InPrivate/Incognito window in your browser to avoid any confusion with any other credentials that you may use to access Azure resources.
-* The credentials you need to access the Azure subscription assigned to your team are available on the *OpenHack Environment* tab.
-
 ## Challenge
 
 Now that the test migrations of the initial servers and applications is complete and the workloads have been validated in Azure, it is time to finalize the migration for the target applications and bring them to Azure permanently.
