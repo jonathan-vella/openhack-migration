@@ -91,3 +91,7 @@ Your coach will discuss your process and selection of technologies before you mo
 * <a href="https://azure.microsoft.com/pricing/" target="_blank">How Azure pricing works</a>
 * <a href="https://docs.microsoft.com/azure/architecture/best-practices/naming-conventions" target="_blank">Naming conventions for Azure resources</a>
 * <a href="https://azure.microsoft.com/migration/windows-server/" target="_blank">Windows Server * Azure Migration Center</a>
+Migration Planning resources</a>
+* <a href="https://github.com/jonathan-vella/architecting-for-success/blob/main/102-Azure-Landing-Zones/docs/Azure%20Network%20Documentation%20Template.xlsx" target="_blank">IP Address Planning Template</a>
+* <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/" target="_blank">Cloud Adoption Framework * Adopt: Migrate</a>
+  * <a href="https://github.com/Azure/migration" target="_blank">Cloud Adoption Framework * Adopt: Migration Execution Guide</a>
