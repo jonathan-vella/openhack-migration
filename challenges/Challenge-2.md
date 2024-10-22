@@ -45,6 +45,7 @@ Your coach will discuss your assessment before you move on to the next challenge
 
 ## References
 
+* <a href="https://aka.ms/migrate/script/hyperv" target="_blank">Azure Migrate Hyper-V Host Preparation Script</a>
 * <a href="https://docs.microsoft.com/azure/migrate/migrate-services-overview" target="_blank">About Azure Migrate</a>
 * <a href="https://azure.microsoft.com/migration/" target="_blank">Azure Migration Center</a>
 * <a href="https://docs.microsoft.com/azure/architecture/cloud-adoption/migrate/" target="_blank">Cloud migration in the Cloud Adoption Framework</a>
