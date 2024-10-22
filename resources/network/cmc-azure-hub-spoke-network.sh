@@ -1,13 +1,9 @@
 # This script will deploy a Hub and Spoke network topology in Azure. It will create the following resources:
-# 1. Hub network with Azure Firewall and VPN Gateway
-# 2. Azure Bastion Virtual Network with Azure Bastion
-# 3. Shared Services network for ADDS
-# 4. Spoke network for workloads
-# 5. Virtual Network Peerings
-# 6. Route Tables
-# 7. Network Security Groups
-# 8. Some NSG Rules
-# 9. Azure Firewall Policy with an Allow-All Azure Firewall Rule
+# 1. Virtual Networks for Hub, Shared Services, Bastion, and a Workload.
+# 2. Network Security Groups for the Shared Services, Web, WebA, Cma, CmaA, and DB subnets.
+# 3. Azure Bastion, Azure Firewall, Azure Firewall Policy, and VPN Gateway.
+# 4. Virtual Network Peerings between Hub <> Shared Services, Hub <> Workload, Shared Services <> Azure Bastion, Workload <> Azure Bastion.
+# 5. Route Tables for the Gateway, Shared Services, Workload, and Database subnets.
 
 # Set variables for Azure environment
 # Note. You can change the values of these variables to suit your environment.
