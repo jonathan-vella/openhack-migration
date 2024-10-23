@@ -76,3 +76,4 @@ Your coach will discuss your implementation before you move on to the next chall
     * <a href="https://docs.microsoft.com/azure/architecture/reference-architectures/identity/adds-extend-domain#active-directory-operations-masters" target="_blank">Active Directory operations masters</a>
 * <a href="https://vmarena.com/how-to-configure-replication-from-on-premise-domain-controller-to-azure-vm/" target="_blank">How To Configure Replication From On-Premise Domain Controller To Azure VM</a>
 * <a href="https://dnsmadeeasy.com/support/subnet/" target="_blank">Subnet Mask Cheat Sheet</a>
+[Windows Server RRAS to Azure Connection Guide](https://charbelnemnom.com/site-to-site-vpn-azure-and-windows-rras-server/)
