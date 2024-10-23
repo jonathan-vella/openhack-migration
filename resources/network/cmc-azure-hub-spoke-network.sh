@@ -347,3 +347,5 @@ gw_rt_id=$(az network route-table show -n udr-gwsubnet -g $rghub -o tsv --query 
 az network vnet subnet update -g $rghub --vnet-name $hub_vnet_name -n $gw_subnet_name --route-table $gw_rt_id
 
 ########--------------------------########
+
+echo "Network Topology Deployment Completed!"
